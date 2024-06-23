@@ -1,0 +1,9 @@
+
+train: /content/drive/MyDrive/image_detection/image_yolov5/dataset/images/train
+val: /content/drive/MyDrive/image_detection/image_yolov5/dataset/images/val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['speed limit', 'yield', 'mandatory', 'other']
