@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive guide to setting up and using YOLOv5 for traffic sign detection. The following steps will guide you through the installation of necessary Python packages, setting up Google Drive for data storage, cloning the YOLOv5 module, and preparing your dataset.
 
-## Documents of Changes of the Code
+## Changes Made in the Code
 Update Version of the Python Packages.
 Difference Ratio of the Training Datasets & Test DataSets(105: 100)
 Datasets Images Height & Weight Measurement
