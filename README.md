@@ -1,4 +1,4 @@
-# improved_yolov5_for_multi_scale_traffic_sign_detection
+# multiscale-traffic-sign-detection-using-yolov5
 
 This repository provides a comprehensive guide to setting up and using YOLOv5 for traffic sign detection. The following steps will guide you through the installation of necessary Python packages, setting up Google Drive for data storage, cloning the YOLOv5 module, and preparing your dataset.
 
